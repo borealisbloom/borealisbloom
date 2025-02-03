@@ -16,8 +16,8 @@ I developed a Telegram bot that interacts with the **Kinopoisk API**, providing 
 
 ### Links
 - **Framingham Heart Study**  
-  https://github.com/borealisbloom/the_framingham_heart_study
-  https://github.com/borealisbloom/the_framingham_heart_study_fastapi_docker
+  https://github.com/borealisbloom/framingham-heart-study<br/>
+  https://github.com/borealisbloom/framingham-heart-study-streamlit-fastapi-docker
 
 - **Kinopoisk Telegram Bot**  
   https://t.me/KinopoiskMoviesSearchBot
