@@ -1,5 +1,5 @@
 ### About Me
-Hi! 👋 I'm Ruta, a Junior Data Scientist at ADV Tech. With over a year of experience in data science, I specialize in machine learning, data analysis, and deploying ideas into production-ready solutions. 🚀  
+Hi! 👋 I'm Ruta, a Data Scientist at Points Group (ADV). With over a year of experience in data science, I specialize in machine learning, data analysis, and deploying ideas into production-ready solutions. 🚀  
 
 ### My Projects
 
